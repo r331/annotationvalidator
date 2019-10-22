@@ -1,0 +1,1 @@
+Source code for article "How to create custom bean validator with annotations"
